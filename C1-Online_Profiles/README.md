@@ -5,13 +5,14 @@ For this assignment you will need to upload your resume and provide links to you
 [Online Profiles Assignment](https://education.launchcode.org/liftoff/modules/assignments/online-profiles)
 
 ## Submission Instructions
- 
+
 ### GitHub
 Provide a link to your GitHub account here.
+ https://github.com/Lkthal
  
 ### LinkedIn
 Provide a link to your LinkedIn account here.
-
+https://www.linkedin.com/in/thalsyhabout/
 ### Resume
 You will need to upload a .PDF of your resume to this repo, or connect with your mentor on an alternate way of submitting your resume.
 
